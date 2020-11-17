@@ -2,12 +2,7 @@
 
 ## Simulation
 
-Simulate original
-```
-make 
-```
-
-Simulate solution
+Simulate solution:
 ```
 make S=1
 ```
